@@ -1,0 +1,6 @@
+ALGORITHM CalculTableau
+VAR
+    tab1[1..9,1..9] : 
+BEGIN
+    set_instructions
+END
